@@ -1,0 +1,16 @@
+body {
+    background-color: antiquewhite;
+}
+h1 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: xx-large;
+    color: rgb(80, 109, 165);
+}
+li {
+    display: inline;
+    font-variant: small-caps;
+}
+p {
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+}
