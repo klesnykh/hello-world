@@ -1,7 +1,8 @@
 function diseaseGreeting(){
     let month = prompt("What month were you born? (1-12):  ");
-    while (month<0 || month>12){
-        let m = prompt("Incorrect input, please only enter a number 1-12:  ");
+    console.print(month);
+    while (month < 0 || month > 12){
+        month = prompt("Incorrect input, please only enter a number 1-12:  ");
     }
 
     let disease;
